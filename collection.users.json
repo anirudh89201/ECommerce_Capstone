@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "66693d3beb2708ec27051d17"
+  },
+  "u_name": "JohnDoe",
+  "u_pwd": "secretpassword",
+  "u_email": "johndoe@example.com",
+  "u_addr": "123 Main St, Anytown",
+  "u_contact": 1234567890,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66695b053e32363e7c50f0f3"
+  },
+  "u_name": "Anirudh",
+  "u_pwd": "Anirudh@123",
+  "u_email": "anirudhreddy89201@gmail.com",
+  "u_addr": "4-3-258",
+  "u_contact": {
+    "$numberLong": "9618313208"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666b22eba901e99daffcf2d4"
+  },
+  "u_name": "Vijay Kumar Reddy",
+  "u_pwd": "Vijay@123",
+  "u_email": "vkasitmehta@gmail.com",
+  "u_addr": "4-3-258 parnapalli road",
+  "u_contact": {
+    "$numberLong": "9441932118"
+  },
+  "__v": 0
+}]
